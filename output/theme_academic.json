@@ -1,0 +1,11 @@
+{
+  "canvas": "#FFFFFF",
+  "canvas_sec": "#F8F8F8",
+  "ink": "#1A1A1A",
+  "ink_faded": "#666666",
+  "accent": "#1A3A5C",
+  "accent_light": "#2C5F8A",
+  "border": "#DDDDDD",
+  "code_bg": "#F5F5F5",
+  "watermark": [1.0, 1.0, 1.0, 0.0]
+}
